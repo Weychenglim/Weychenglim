@@ -7,4 +7,4 @@ I expect to learn practical software maintenance and evolution techniques, inclu
 - **Fun fact:** I'm always curious about how everyday apps work behind the scenes.
 - **Course expectation:** To build hands-on experience maintaining and evolving software.
 
-![My image](me.png)
+![My image](ProfilePicHairstyle.png)
